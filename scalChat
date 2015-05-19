@@ -10,6 +10,24 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
+					<key>url</key>
+					<string>http://172.18.81.155:8578/apps/scalchat/scalchat.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.18.81.155:8578/apps/scalchat/512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.18.81.155:8578/apps/scalchat/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
